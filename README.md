@@ -1,6 +1,6 @@
 <p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="aventium softworks"></p>
 
-<h1 align="center">Helios Launcher</h1>
+<h1 align="center">Magic Building Technology</h1>
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
@@ -42,7 +42,7 @@ You can download from [GitHub Releases](https://github.com/dscalzi/HeliosLaunche
 
 #### Latest Release
 
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases/latest)
+[![](https://img.shields.io/github/release/.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases/latest)
 
 #### Latest Pre-Release
 [![](https://img.shields.io/github/release/dscalzi/HeliosLauncher/all.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases)
